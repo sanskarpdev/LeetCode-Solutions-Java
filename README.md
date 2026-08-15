@@ -11,11 +11,11 @@ Contains topicwise list of solved problems.
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 1 days | 1 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-14 | 1 |
+| 2026-08-15 | 1 |
 
 ## Top Tags
 
